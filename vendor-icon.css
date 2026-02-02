@@ -1,0 +1,333 @@
+app-user-page .list-group-vendor > a > picture, app-deposit-dialog .list-group-vendor > a > picture, app-withdraw-dialog .list-group-vendor > a > picture, app-memo-dialog .list-group-vendor > a > picture, app-bonus-dialog .list-group-vendor > a > picture, app-transation-detail-dialog .list-group-vendor > a > picture, app-detail-invoice-dialog .list-group-vendor > a > picture, app-detail-keluaran-dialog .list-group-vendor > a > picture {
+    position: relative;
+    top: 0;
+    left: 0;
+    float: left;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+app-user-page .list-group-vendor > a > picture > img, app-deposit-dialog .list-group-vendor > a > picture > img, app-withdraw-dialog .list-group-vendor > a > picture > img, app-memo-dialog .list-group-vendor > a > picture > img, app-bonus-dialog .list-group-vendor > a > picture > img, app-transation-detail-dialog .list-group-vendor > a > picture > img, app-detail-invoice-dialog .list-group-vendor > a > picture > img, app-detail-keluaran-dialog .list-group-vendor > a > picture > img {
+    width: 200px;
+    height: auto;
+}
+app-user-page .list-item-pragmatic img, app-deposit-dialog .list-item-pragmatic img, app-withdraw-dialog .list-item-pragmatic img, app-memo-dialog .list-item-pragmatic img, app-bonus-dialog .list-item-pragmatic img, app-transation-detail-dialog .list-item-pragmatic img, app-detail-invoice-dialog .list-item-pragmatic img, app-detail-keluaran-dialog .list-item-pragmatic img {
+    position: absolute;
+    top: 0px;
+    left: -20px;
+}
+app-user-page .list-item-pragmatic.active img, app-deposit-dialog .list-item-pragmatic.active img, app-withdraw-dialog .list-item-pragmatic.active img, app-memo-dialog .list-item-pragmatic.active img, app-bonus-dialog .list-item-pragmatic.active img, app-transation-detail-dialog .list-item-pragmatic.active img, app-detail-invoice-dialog .list-item-pragmatic.active img, app-detail-keluaran-dialog .list-item-pragmatic.active img, app-user-page .list-item-pragmatic:hover img, app-deposit-dialog .list-item-pragmatic:hover img, app-withdraw-dialog .list-item-pragmatic:hover img, app-memo-dialog .list-item-pragmatic:hover img, app-bonus-dialog .list-item-pragmatic:hover img, app-transation-detail-dialog .list-item-pragmatic:hover img, app-detail-invoice-dialog .list-item-pragmatic:hover img, app-detail-keluaran-dialog .list-item-pragmatic:hover img {
+    left: 0px;
+}
+app-user-page .list-item-habanero img, app-deposit-dialog .list-item-habanero img, app-withdraw-dialog .list-item-habanero img, app-memo-dialog .list-item-habanero img, app-bonus-dialog .list-item-habanero img, app-transation-detail-dialog .list-item-habanero img, app-detail-invoice-dialog .list-item-habanero img, app-detail-keluaran-dialog .list-item-habanero img {
+    position: absolute;
+    top: 0px;
+    left: -60px;
+}
+app-user-page .list-item-habanero.active img, app-deposit-dialog .list-item-habanero.active img, app-withdraw-dialog .list-item-habanero.active img, app-memo-dialog .list-item-habanero.active img, app-bonus-dialog .list-item-habanero.active img, app-transation-detail-dialog .list-item-habanero.active img, app-detail-invoice-dialog .list-item-habanero.active img, app-detail-keluaran-dialog .list-item-habanero.active img, app-user-page .list-item-habanero:hover img, app-deposit-dialog .list-item-habanero:hover img, app-withdraw-dialog .list-item-habanero:hover img, app-memo-dialog .list-item-habanero:hover img, app-bonus-dialog .list-item-habanero:hover img, app-transation-detail-dialog .list-item-habanero:hover img, app-detail-invoice-dialog .list-item-habanero:hover img, app-detail-keluaran-dialog .list-item-habanero:hover img {
+    left: -40px;
+}
+app-user-page .list-item-cq9 img, app-deposit-dialog .list-item-cq9 img, app-withdraw-dialog .list-item-cq9 img, app-memo-dialog .list-item-cq9 img, app-bonus-dialog .list-item-cq9 img, app-transation-detail-dialog .list-item-cq9 img, app-detail-invoice-dialog .list-item-cq9 img, app-detail-keluaran-dialog .list-item-cq9 img {
+    position: absolute;
+    top: 0px;
+    left: -100px;
+}
+app-user-page .list-item-cq9.active img, app-deposit-dialog .list-item-cq9.active img, app-withdraw-dialog .list-item-cq9.active img, app-memo-dialog .list-item-cq9.active img, app-bonus-dialog .list-item-cq9.active img, app-transation-detail-dialog .list-item-cq9.active img, app-detail-invoice-dialog .list-item-cq9.active img, app-detail-keluaran-dialog .list-item-cq9.active img, app-user-page .list-item-cq9:hover img, app-deposit-dialog .list-item-cq9:hover img, app-withdraw-dialog .list-item-cq9:hover img, app-memo-dialog .list-item-cq9:hover img, app-bonus-dialog .list-item-cq9:hover img, app-transation-detail-dialog .list-item-cq9:hover img, app-detail-invoice-dialog .list-item-cq9:hover img, app-detail-keluaran-dialog .list-item-cq9:hover img {
+    left: -80px;
+}
+app-user-page .list-item-ion img, app-deposit-dialog .list-item-ion img, app-withdraw-dialog .list-item-ion img, app-memo-dialog .list-item-ion img, app-bonus-dialog .list-item-ion img, app-transation-detail-dialog .list-item-ion img, app-detail-invoice-dialog .list-item-ion img, app-detail-keluaran-dialog .list-item-ion img {
+    position: absolute;
+    top: 0px;
+    left: -140px;
+}
+app-user-page .list-item-ion.active img, app-deposit-dialog .list-item-ion.active img, app-withdraw-dialog .list-item-ion.active img, app-memo-dialog .list-item-ion.active img, app-bonus-dialog .list-item-ion.active img, app-transation-detail-dialog .list-item-ion.active img, app-detail-invoice-dialog .list-item-ion.active img, app-detail-keluaran-dialog .list-item-ion.active img, app-user-page .list-item-ion:hover img, app-deposit-dialog .list-item-ion:hover img, app-withdraw-dialog .list-item-ion:hover img, app-memo-dialog .list-item-ion:hover img, app-bonus-dialog .list-item-ion:hover img, app-transation-detail-dialog .list-item-ion:hover img, app-detail-invoice-dialog .list-item-ion:hover img, app-detail-keluaran-dialog .list-item-ion:hover img {
+    left: -120px;
+}
+app-user-page .list-item-sa img, app-deposit-dialog .list-item-sa img, app-withdraw-dialog .list-item-sa img, app-memo-dialog .list-item-sa img, app-bonus-dialog .list-item-sa img, app-transation-detail-dialog .list-item-sa img, app-detail-invoice-dialog .list-item-sa img, app-detail-keluaran-dialog .list-item-sa img {
+    position: absolute;
+    top: 0px;
+    left: -180px;
+}
+app-user-page .list-item-sa.active img, app-deposit-dialog .list-item-sa.active img, app-withdraw-dialog .list-item-sa.active img, app-memo-dialog .list-item-sa.active img, app-bonus-dialog .list-item-sa.active img, app-transation-detail-dialog .list-item-sa.active img, app-detail-invoice-dialog .list-item-sa.active img, app-detail-keluaran-dialog .list-item-sa.active img, app-user-page .list-item-sa:hover img, app-deposit-dialog .list-item-sa:hover img, app-withdraw-dialog .list-item-sa:hover img, app-memo-dialog .list-item-sa:hover img, app-bonus-dialog .list-item-sa:hover img, app-transation-detail-dialog .list-item-sa:hover img, app-detail-invoice-dialog .list-item-sa:hover img, app-detail-keluaran-dialog .list-item-sa:hover img {
+    left: -160px;
+}
+app-user-page .list-item-ho img, app-deposit-dialog .list-item-ho img, app-withdraw-dialog .list-item-ho img, app-memo-dialog .list-item-ho img, app-bonus-dialog .list-item-ho img, app-transation-detail-dialog .list-item-ho img, app-detail-invoice-dialog .list-item-ho img, app-detail-keluaran-dialog .list-item-ho img {
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
+app-user-page .list-item-ho.active img, app-deposit-dialog .list-item-ho.active img, app-withdraw-dialog .list-item-ho.active img, app-memo-dialog .list-item-ho.active img, app-bonus-dialog .list-item-ho.active img, app-transation-detail-dialog .list-item-ho.active img, app-detail-invoice-dialog .list-item-ho.active img, app-detail-keluaran-dialog .list-item-ho.active img, app-user-page .list-item-ho:hover img, app-deposit-dialog .list-item-ho:hover img, app-withdraw-dialog .list-item-ho:hover img, app-memo-dialog .list-item-ho:hover img, app-bonus-dialog .list-item-ho:hover img, app-transation-detail-dialog .list-item-ho:hover img, app-detail-invoice-dialog .list-item-ho:hover img, app-detail-keluaran-dialog .list-item-ho:hover img {
+    left: 0px;
+}
+app-user-page .list-item-sbo img, app-deposit-dialog .list-item-sbo img, app-withdraw-dialog .list-item-sbo img, app-memo-dialog .list-item-sbo img, app-bonus-dialog .list-item-sbo img, app-transation-detail-dialog .list-item-sbo img, app-detail-invoice-dialog .list-item-sbo img, app-detail-keluaran-dialog .list-item-sbo img {
+    position: absolute;
+    top: -20px;
+    left: -60px;
+}
+app-user-page .list-item-sbo.active img, app-deposit-dialog .list-item-sbo.active img, app-withdraw-dialog .list-item-sbo.active img, app-memo-dialog .list-item-sbo.active img, app-bonus-dialog .list-item-sbo.active img, app-transation-detail-dialog .list-item-sbo.active img, app-detail-invoice-dialog .list-item-sbo.active img, app-detail-keluaran-dialog .list-item-sbo.active img, app-user-page .list-item-sbo:hover img, app-deposit-dialog .list-item-sbo:hover img, app-withdraw-dialog .list-item-sbo:hover img, app-memo-dialog .list-item-sbo:hover img, app-bonus-dialog .list-item-sbo:hover img, app-transation-detail-dialog .list-item-sbo:hover img, app-detail-invoice-dialog .list-item-sbo:hover img, app-detail-keluaran-dialog .list-item-sbo:hover img {
+    left: -40px;
+}
+app-user-page .list-item-saba img, app-deposit-dialog .list-item-saba img, app-withdraw-dialog .list-item-saba img, app-memo-dialog .list-item-saba img, app-bonus-dialog .list-item-saba img, app-transation-detail-dialog .list-item-saba img, app-detail-invoice-dialog .list-item-saba img, app-detail-keluaran-dialog .list-item-saba img {
+    position: absolute;
+    top: -20px;
+    left: -100px;
+}
+app-user-page .list-item-saba.active img, app-deposit-dialog .list-item-saba.active img, app-withdraw-dialog .list-item-saba.active img, app-memo-dialog .list-item-saba.active img, app-bonus-dialog .list-item-saba.active img, app-transation-detail-dialog .list-item-saba.active img, app-detail-invoice-dialog .list-item-saba.active img, app-detail-keluaran-dialog .list-item-saba.active img, app-user-page .list-item-saba:hover img, app-deposit-dialog .list-item-saba:hover img, app-withdraw-dialog .list-item-saba:hover img, app-memo-dialog .list-item-saba:hover img, app-bonus-dialog .list-item-saba:hover img, app-transation-detail-dialog .list-item-saba:hover img, app-detail-invoice-dialog .list-item-saba:hover img, app-detail-keluaran-dialog .list-item-saba:hover img {
+    left: -80px;
+}
+app-user-page .list-item-joker img, app-deposit-dialog .list-item-joker img, app-withdraw-dialog .list-item-joker img, app-memo-dialog .list-item-joker img, app-bonus-dialog .list-item-joker img, app-transation-detail-dialog .list-item-joker img, app-detail-invoice-dialog .list-item-joker img, app-detail-keluaran-dialog .list-item-joker img {
+    position: absolute;
+    top: -20px;
+    left: -140px;
+}
+app-user-page .list-item-joker.active img, app-deposit-dialog .list-item-joker.active img, app-withdraw-dialog .list-item-joker.active img, app-memo-dialog .list-item-joker.active img, app-bonus-dialog .list-item-joker.active img, app-transation-detail-dialog .list-item-joker.active img, app-detail-invoice-dialog .list-item-joker.active img, app-detail-keluaran-dialog .list-item-joker.active img, app-user-page .list-item-joker:hover img, app-deposit-dialog .list-item-joker:hover img, app-withdraw-dialog .list-item-joker:hover img, app-memo-dialog .list-item-joker:hover img, app-bonus-dialog .list-item-joker:hover img, app-transation-detail-dialog .list-item-joker:hover img, app-detail-invoice-dialog .list-item-joker:hover img, app-detail-keluaran-dialog .list-item-joker:hover img {
+    left: -120px;
+}
+app-user-page .list-item-pgsoft img, app-deposit-dialog .list-item-pgsoft img, app-withdraw-dialog .list-item-pgsoft img, app-memo-dialog .list-item-pgsoft img, app-bonus-dialog .list-item-pgsoft img, app-transation-detail-dialog .list-item-pgsoft img, app-detail-invoice-dialog .list-item-pgsoft img, app-detail-keluaran-dialog .list-item-pgsoft img {
+    position: absolute;
+    top: -20px;
+    left: -180px;
+}
+app-user-page .list-item-pgsoft.active img, app-deposit-dialog .list-item-pgsoft.active img, app-withdraw-dialog .list-item-pgsoft.active img, app-memo-dialog .list-item-pgsoft.active img, app-bonus-dialog .list-item-pgsoft.active img, app-transation-detail-dialog .list-item-pgsoft.active img, app-detail-invoice-dialog .list-item-pgsoft.active img, app-detail-keluaran-dialog .list-item-pgsoft.active img, app-user-page .list-item-pgsoft:hover img, app-deposit-dialog .list-item-pgsoft:hover img, app-withdraw-dialog .list-item-pgsoft:hover img, app-memo-dialog .list-item-pgsoft:hover img, app-bonus-dialog .list-item-pgsoft:hover img, app-transation-detail-dialog .list-item-pgsoft:hover img, app-detail-invoice-dialog .list-item-pgsoft:hover img, app-detail-keluaran-dialog .list-item-pgsoft:hover img {
+    left: -160px;
+}
+app-user-page .list-item-microgaming img, app-deposit-dialog .list-item-microgaming img, app-withdraw-dialog .list-item-microgaming img, app-memo-dialog .list-item-microgaming img, app-bonus-dialog .list-item-microgaming img, app-transation-detail-dialog .list-item-microgaming img, app-detail-invoice-dialog .list-item-microgaming img, app-detail-keluaran-dialog .list-item-microgaming img {
+    position: absolute;
+    top: -40px;
+    left: -20px;
+}
+app-user-page .list-item-microgaming.active img, app-deposit-dialog .list-item-microgaming.active img, app-withdraw-dialog .list-item-microgaming.active img, app-memo-dialog .list-item-microgaming.active img, app-bonus-dialog .list-item-microgaming.active img, app-transation-detail-dialog .list-item-microgaming.active img, app-detail-invoice-dialog .list-item-microgaming.active img, app-detail-keluaran-dialog .list-item-microgaming.active img, app-user-page .list-item-microgaming:hover img, app-deposit-dialog .list-item-microgaming:hover img, app-withdraw-dialog .list-item-microgaming:hover img, app-memo-dialog .list-item-microgaming:hover img, app-bonus-dialog .list-item-microgaming:hover img, app-transation-detail-dialog .list-item-microgaming:hover img, app-detail-invoice-dialog .list-item-microgaming:hover img, app-detail-keluaran-dialog .list-item-microgaming:hover img {
+    left: 0px;
+}
+app-user-page .list-item-rtg img, app-deposit-dialog .list-item-rtg img, app-withdraw-dialog .list-item-rtg img, app-memo-dialog .list-item-rtg img, app-bonus-dialog .list-item-rtg img, app-transation-detail-dialog .list-item-rtg img, app-detail-invoice-dialog .list-item-rtg img, app-detail-keluaran-dialog .list-item-rtg img {
+    position: absolute;
+    top: -40px;
+    left: -60px;
+}
+app-user-page .list-item-rtg.active img, app-deposit-dialog .list-item-rtg.active img, app-withdraw-dialog .list-item-rtg.active img, app-memo-dialog .list-item-rtg.active img, app-bonus-dialog .list-item-rtg.active img, app-transation-detail-dialog .list-item-rtg.active img, app-detail-invoice-dialog .list-item-rtg.active img, app-detail-keluaran-dialog .list-item-rtg.active img, app-user-page .list-item-rtg:hover img, app-deposit-dialog .list-item-rtg:hover img, app-withdraw-dialog .list-item-rtg:hover img, app-memo-dialog .list-item-rtg:hover img, app-bonus-dialog .list-item-rtg:hover img, app-transation-detail-dialog .list-item-rtg:hover img, app-detail-invoice-dialog .list-item-rtg:hover img, app-detail-keluaran-dialog .list-item-rtg:hover img {
+    left: -40px;
+}
+app-user-page .list-item-redtiger img, app-deposit-dialog .list-item-redtiger img, app-withdraw-dialog .list-item-redtiger img, app-memo-dialog .list-item-redtiger img, app-bonus-dialog .list-item-redtiger img, app-transation-detail-dialog .list-item-redtiger img, app-detail-invoice-dialog .list-item-redtiger img, app-detail-keluaran-dialog .list-item-redtiger img {
+    position: absolute;
+    top: -40px;
+    left: -100px;
+}
+app-user-page .list-item-redtiger.active img, app-deposit-dialog .list-item-redtiger.active img, app-withdraw-dialog .list-item-redtiger.active img, app-memo-dialog .list-item-redtiger.active img, app-bonus-dialog .list-item-redtiger.active img, app-transation-detail-dialog .list-item-redtiger.active img, app-detail-invoice-dialog .list-item-redtiger.active img, app-detail-keluaran-dialog .list-item-redtiger.active img, app-user-page .list-item-redtiger:hover img, app-deposit-dialog .list-item-redtiger:hover img, app-withdraw-dialog .list-item-redtiger:hover img, app-memo-dialog .list-item-redtiger:hover img, app-bonus-dialog .list-item-redtiger:hover img, app-transation-detail-dialog .list-item-redtiger:hover img, app-detail-invoice-dialog .list-item-redtiger:hover img, app-detail-keluaran-dialog .list-item-redtiger:hover img {
+    left: -80px;
+}
+app-user-page .list-item-playngo img, app-deposit-dialog .list-item-playngo img, app-withdraw-dialog .list-item-playngo img, app-memo-dialog .list-item-playngo img, app-bonus-dialog .list-item-playngo img, app-transation-detail-dialog .list-item-playngo img, app-detail-invoice-dialog .list-item-playngo img, app-detail-keluaran-dialog .list-item-playngo img {
+    position: absolute;
+    top: -40px;
+    left: -140px;
+}
+app-user-page .list-item-playngo.active img, app-deposit-dialog .list-item-playngo.active img, app-withdraw-dialog .list-item-playngo.active img, app-memo-dialog .list-item-playngo.active img, app-bonus-dialog .list-item-playngo.active img, app-transation-detail-dialog .list-item-playngo.active img, app-detail-invoice-dialog .list-item-playngo.active img, app-detail-keluaran-dialog .list-item-playngo.active img, app-user-page .list-item-playngo:hover img, app-deposit-dialog .list-item-playngo:hover img, app-withdraw-dialog .list-item-playngo:hover img, app-memo-dialog .list-item-playngo:hover img, app-bonus-dialog .list-item-playngo:hover img, app-transation-detail-dialog .list-item-playngo:hover img, app-detail-invoice-dialog .list-item-playngo:hover img, app-detail-keluaran-dialog .list-item-playngo:hover img {
+    left: -120px;
+}
+app-user-page .list-item-funkygames img, app-deposit-dialog .list-item-funkygames img, app-withdraw-dialog .list-item-funkygames img, app-memo-dialog .list-item-funkygames img, app-bonus-dialog .list-item-funkygames img, app-transation-detail-dialog .list-item-funkygames img, app-detail-invoice-dialog .list-item-funkygames img, app-detail-keluaran-dialog .list-item-funkygames img {
+    position: absolute;
+    top: -40px;
+    left: -180px;
+}
+app-user-page .list-item-funkygames.active img, app-deposit-dialog .list-item-funkygames.active img, app-withdraw-dialog .list-item-funkygames.active img, app-memo-dialog .list-item-funkygames.active img, app-bonus-dialog .list-item-funkygames.active img, app-transation-detail-dialog .list-item-funkygames.active img, app-detail-invoice-dialog .list-item-funkygames.active img, app-detail-keluaran-dialog .list-item-funkygames.active img, app-user-page .list-item-funkygames:hover img, app-deposit-dialog .list-item-funkygames:hover img, app-withdraw-dialog .list-item-funkygames:hover img, app-memo-dialog .list-item-funkygames:hover img, app-bonus-dialog .list-item-funkygames:hover img, app-transation-detail-dialog .list-item-funkygames:hover img, app-detail-invoice-dialog .list-item-funkygames:hover img, app-detail-keluaran-dialog .list-item-funkygames:hover img {
+    left: -160px;
+}
+app-user-page .list-item-btg img, app-deposit-dialog .list-item-btg img, app-withdraw-dialog .list-item-btg img, app-memo-dialog .list-item-btg img, app-bonus-dialog .list-item-btg img, app-transation-detail-dialog .list-item-btg img, app-detail-invoice-dialog .list-item-btg img, app-detail-keluaran-dialog .list-item-btg img {
+    position: absolute;
+    top: -60px;
+    left: -20px;
+}
+app-user-page .list-item-btg.active img, app-deposit-dialog .list-item-btg.active img, app-withdraw-dialog .list-item-btg.active img, app-memo-dialog .list-item-btg.active img, app-bonus-dialog .list-item-btg.active img, app-transation-detail-dialog .list-item-btg.active img, app-detail-invoice-dialog .list-item-btg.active img, app-detail-keluaran-dialog .list-item-btg.active img, app-user-page .list-item-btg:hover img, app-deposit-dialog .list-item-btg:hover img, app-withdraw-dialog .list-item-btg:hover img, app-memo-dialog .list-item-btg:hover img, app-bonus-dialog .list-item-btg:hover img, app-transation-detail-dialog .list-item-btg:hover img, app-detail-invoice-dialog .list-item-btg:hover img, app-detail-keluaran-dialog .list-item-btg:hover img {
+    left: 0px;
+}
+app-user-page .list-item-yggdrasil img, app-deposit-dialog .list-item-yggdrasil img, app-withdraw-dialog .list-item-yggdrasil img, app-memo-dialog .list-item-yggdrasil img, app-bonus-dialog .list-item-yggdrasil img, app-transation-detail-dialog .list-item-yggdrasil img, app-detail-invoice-dialog .list-item-yggdrasil img, app-detail-keluaran-dialog .list-item-yggdrasil img {
+    position: absolute;
+    top: -60px;
+    left: -60px;
+}
+app-user-page .list-item-yggdrasil.active img, app-deposit-dialog .list-item-yggdrasil.active img, app-withdraw-dialog .list-item-yggdrasil.active img, app-memo-dialog .list-item-yggdrasil.active img, app-bonus-dialog .list-item-yggdrasil.active img, app-transation-detail-dialog .list-item-yggdrasil.active img, app-detail-invoice-dialog .list-item-yggdrasil.active img, app-detail-keluaran-dialog .list-item-yggdrasil.active img, app-user-page .list-item-yggdrasil:hover img, app-deposit-dialog .list-item-yggdrasil:hover img, app-withdraw-dialog .list-item-yggdrasil:hover img, app-memo-dialog .list-item-yggdrasil:hover img, app-bonus-dialog .list-item-yggdrasil:hover img, app-transation-detail-dialog .list-item-yggdrasil:hover img, app-detail-invoice-dialog .list-item-yggdrasil:hover img, app-detail-keluaran-dialog .list-item-yggdrasil:hover img {
+    left: -40px;
+}
+app-user-page .list-item-netent img, app-deposit-dialog .list-item-netent img, app-withdraw-dialog .list-item-netent img, app-memo-dialog .list-item-netent img, app-bonus-dialog .list-item-netent img, app-transation-detail-dialog .list-item-netent img, app-detail-invoice-dialog .list-item-netent img, app-detail-keluaran-dialog .list-item-netent img {
+    position: absolute;
+    top: -60px;
+    left: -100px;
+}
+app-user-page .list-item-netent.active img, app-deposit-dialog .list-item-netent.active img, app-withdraw-dialog .list-item-netent.active img, app-memo-dialog .list-item-netent.active img, app-bonus-dialog .list-item-netent.active img, app-transation-detail-dialog .list-item-netent.active img, app-detail-invoice-dialog .list-item-netent.active img, app-detail-keluaran-dialog .list-item-netent.active img, app-user-page .list-item-netent:hover img, app-deposit-dialog .list-item-netent:hover img, app-withdraw-dialog .list-item-netent:hover img, app-memo-dialog .list-item-netent:hover img, app-bonus-dialog .list-item-netent:hover img, app-transation-detail-dialog .list-item-netent:hover img, app-detail-invoice-dialog .list-item-netent:hover img, app-detail-keluaran-dialog .list-item-netent:hover img {
+    left: -80px;
+}
+app-user-page .list-item-quickspin img, app-deposit-dialog .list-item-quickspin img, app-withdraw-dialog .list-item-quickspin img, app-memo-dialog .list-item-quickspin img, app-bonus-dialog .list-item-quickspin img, app-transation-detail-dialog .list-item-quickspin img, app-detail-invoice-dialog .list-item-quickspin img, app-detail-keluaran-dialog .list-item-quickspin img {
+    position: absolute;
+    top: -60px;
+    left: -140px;
+}
+app-user-page .list-item-quickspin.active img, app-deposit-dialog .list-item-quickspin.active img, app-withdraw-dialog .list-item-quickspin.active img, app-memo-dialog .list-item-quickspin.active img, app-bonus-dialog .list-item-quickspin.active img, app-transation-detail-dialog .list-item-quickspin.active img, app-detail-invoice-dialog .list-item-quickspin.active img, app-detail-keluaran-dialog .list-item-quickspin.active img, app-user-page .list-item-quickspin:hover img, app-deposit-dialog .list-item-quickspin:hover img, app-withdraw-dialog .list-item-quickspin:hover img, app-memo-dialog .list-item-quickspin:hover img, app-bonus-dialog .list-item-quickspin:hover img, app-transation-detail-dialog .list-item-quickspin:hover img, app-detail-invoice-dialog .list-item-quickspin:hover img, app-detail-keluaran-dialog .list-item-quickspin:hover img {
+    left: -120px;
+}
+app-user-page .list-item-worldmatch img, app-deposit-dialog .list-item-worldmatch img, app-withdraw-dialog .list-item-worldmatch img, app-memo-dialog .list-item-worldmatch img, app-bonus-dialog .list-item-worldmatch img, app-transation-detail-dialog .list-item-worldmatch img, app-detail-invoice-dialog .list-item-worldmatch img, app-detail-keluaran-dialog .list-item-worldmatch img {
+    position: absolute;
+    top: -60px;
+    left: -180px;
+}
+app-user-page .list-item-worldmatch.active img, app-deposit-dialog .list-item-worldmatch.active img, app-withdraw-dialog .list-item-worldmatch.active img, app-memo-dialog .list-item-worldmatch.active img, app-bonus-dialog .list-item-worldmatch.active img, app-transation-detail-dialog .list-item-worldmatch.active img, app-detail-invoice-dialog .list-item-worldmatch.active img, app-detail-keluaran-dialog .list-item-worldmatch.active img, app-user-page .list-item-worldmatch:hover img, app-deposit-dialog .list-item-worldmatch:hover img, app-withdraw-dialog .list-item-worldmatch:hover img, app-memo-dialog .list-item-worldmatch:hover img, app-bonus-dialog .list-item-worldmatch:hover img, app-transation-detail-dialog .list-item-worldmatch:hover img, app-detail-invoice-dialog .list-item-worldmatch:hover img, app-detail-keluaran-dialog .list-item-worldmatch:hover img {
+    left: -160px;
+}
+app-user-page .list-item-kiron img, app-deposit-dialog .list-item-kiron img, app-withdraw-dialog .list-item-kiron img, app-memo-dialog .list-item-kiron img, app-bonus-dialog .list-item-kiron img, app-transation-detail-dialog .list-item-kiron img, app-detail-invoice-dialog .list-item-kiron img, app-detail-keluaran-dialog .list-item-kiron img {
+    position: absolute;
+    top: -80px;
+    left: -20px;
+}
+app-user-page .list-item-kiron.active img, app-deposit-dialog .list-item-kiron.active img, app-withdraw-dialog .list-item-kiron.active img, app-memo-dialog .list-item-kiron.active img, app-bonus-dialog .list-item-kiron.active img, app-transation-detail-dialog .list-item-kiron.active img, app-detail-invoice-dialog .list-item-kiron.active img, app-detail-keluaran-dialog .list-item-kiron.active img, app-user-page .list-item-kiron:hover img, app-deposit-dialog .list-item-kiron:hover img, app-withdraw-dialog .list-item-kiron:hover img, app-memo-dialog .list-item-kiron:hover img, app-bonus-dialog .list-item-kiron:hover img, app-transation-detail-dialog .list-item-kiron:hover img, app-detail-invoice-dialog .list-item-kiron:hover img, app-detail-keluaran-dialog .list-item-kiron:hover img {
+    left: 0px;
+}
+app-user-page .list-item-flow img, app-deposit-dialog .list-item-flow img, app-withdraw-dialog .list-item-flow img, app-memo-dialog .list-item-flow img, app-bonus-dialog .list-item-flow img, app-transation-detail-dialog .list-item-flow img, app-detail-invoice-dialog .list-item-flow img, app-detail-keluaran-dialog .list-item-flow img {
+    position: absolute;
+    top: -80px;
+    left: -60px;
+}
+app-user-page .list-item-flow.active img, app-deposit-dialog .list-item-flow.active img, app-withdraw-dialog .list-item-flow.active img, app-memo-dialog .list-item-flow.active img, app-bonus-dialog .list-item-flow.active img, app-transation-detail-dialog .list-item-flow.active img, app-detail-invoice-dialog .list-item-flow.active img, app-detail-keluaran-dialog .list-item-flow.active img, app-user-page .list-item-flow:hover img, app-deposit-dialog .list-item-flow:hover img, app-withdraw-dialog .list-item-flow:hover img, app-memo-dialog .list-item-flow:hover img, app-bonus-dialog .list-item-flow:hover img, app-transation-detail-dialog .list-item-flow:hover img, app-detail-invoice-dialog .list-item-flow:hover img, app-detail-keluaran-dialog .list-item-flow:hover img {
+    left: -40px;
+}
+app-user-page .list-item-allbet img, app-deposit-dialog .list-item-allbet img, app-withdraw-dialog .list-item-allbet img, app-memo-dialog .list-item-allbet img, app-bonus-dialog .list-item-allbet img, app-transation-detail-dialog .list-item-allbet img, app-detail-invoice-dialog .list-item-allbet img, app-detail-keluaran-dialog .list-item-allbet img {
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+app-user-page .list-item-allbet.active img, app-deposit-dialog .list-item-allbet.active img, app-withdraw-dialog .list-item-allbet.active img, app-memo-dialog .list-item-allbet.active img, app-bonus-dialog .list-item-allbet.active img, app-transation-detail-dialog .list-item-allbet.active img, app-detail-invoice-dialog .list-item-allbet.active img, app-detail-keluaran-dialog .list-item-allbet.active img, app-user-page .list-item-allbet:hover img, app-deposit-dialog .list-item-allbet:hover img, app-withdraw-dialog .list-item-allbet:hover img, app-memo-dialog .list-item-allbet:hover img, app-bonus-dialog .list-item-allbet:hover img, app-transation-detail-dialog .list-item-allbet:hover img, app-detail-invoice-dialog .list-item-allbet:hover img, app-detail-keluaran-dialog .list-item-allbet:hover img {
+    left: -80px;
+}
+app-user-page .list-item-greendragon img, app-deposit-dialog .list-item-greendragon img, app-withdraw-dialog .list-item-greendragon img, app-memo-dialog .list-item-greendragon img, app-bonus-dialog .list-item-greendragon img, app-transation-detail-dialog .list-item-greendragon img, app-detail-invoice-dialog .list-item-greendragon img, app-detail-keluaran-dialog .list-item-greendragon img {
+    position: absolute;
+    top: -80px;
+    left: -140px;
+}
+app-user-page .list-item-greendragon.active img, app-deposit-dialog .list-item-greendragon.active img, app-withdraw-dialog .list-item-greendragon.active img, app-memo-dialog .list-item-greendragon.active img, app-bonus-dialog .list-item-greendragon.active img, app-transation-detail-dialog .list-item-greendragon.active img, app-detail-invoice-dialog .list-item-greendragon.active img, app-detail-keluaran-dialog .list-item-greendragon.active img, app-user-page .list-item-greendragon:hover img, app-deposit-dialog .list-item-greendragon:hover img, app-withdraw-dialog .list-item-greendragon:hover img, app-memo-dialog .list-item-greendragon:hover img, app-bonus-dialog .list-item-greendragon:hover img, app-transation-detail-dialog .list-item-greendragon:hover img, app-detail-invoice-dialog .list-item-greendragon:hover img, app-detail-keluaran-dialog .list-item-greendragon:hover img {
+    left: -120px;
+}
+app-user-page .list-item-sexy img, app-deposit-dialog .list-item-sexy img, app-withdraw-dialog .list-item-sexy img, app-memo-dialog .list-item-sexy img, app-bonus-dialog .list-item-sexy img, app-transation-detail-dialog .list-item-sexy img, app-detail-invoice-dialog .list-item-sexy img, app-detail-keluaran-dialog .list-item-sexy img {
+    position: absolute;
+    top: -80px;
+    left: -180px;
+}
+app-user-page .list-item-sexy.active img, app-deposit-dialog .list-item-sexy.active img, app-withdraw-dialog .list-item-sexy.active img, app-memo-dialog .list-item-sexy.active img, app-bonus-dialog .list-item-sexy.active img, app-transation-detail-dialog .list-item-sexy.active img, app-detail-invoice-dialog .list-item-sexy.active img, app-detail-keluaran-dialog .list-item-sexy.active img, app-user-page .list-item-sexy:hover img, app-deposit-dialog .list-item-sexy:hover img, app-withdraw-dialog .list-item-sexy:hover img, app-memo-dialog .list-item-sexy:hover img, app-bonus-dialog .list-item-sexy:hover img, app-transation-detail-dialog .list-item-sexy:hover img, app-detail-invoice-dialog .list-item-sexy:hover img, app-detail-keluaran-dialog .list-item-sexy:hover img {
+    left: -160px;
+}
+app-user-page .list-item-wm img, app-deposit-dialog .list-item-wm img, app-withdraw-dialog .list-item-wm img, app-memo-dialog .list-item-wm img, app-bonus-dialog .list-item-wm img, app-transation-detail-dialog .list-item-wm img, app-detail-invoice-dialog .list-item-wm img, app-detail-keluaran-dialog .list-item-wm img {
+    position: absolute;
+    top: -100px;
+    left: -20px;
+}
+app-user-page .list-item-wm.active img, app-deposit-dialog .list-item-wm.active img, app-withdraw-dialog .list-item-wm.active img, app-memo-dialog .list-item-wm.active img, app-bonus-dialog .list-item-wm.active img, app-transation-detail-dialog .list-item-wm.active img, app-detail-invoice-dialog .list-item-wm.active img, app-detail-keluaran-dialog .list-item-wm.active img, app-user-page .list-item-wm:hover img, app-deposit-dialog .list-item-wm:hover img, app-withdraw-dialog .list-item-wm:hover img, app-memo-dialog .list-item-wm:hover img, app-bonus-dialog .list-item-wm:hover img, app-transation-detail-dialog .list-item-wm:hover img, app-detail-invoice-dialog .list-item-wm:hover img, app-detail-keluaran-dialog .list-item-wm:hover img {
+    left: 0px;
+}
+app-user-page .list-item-evolution img, app-deposit-dialog .list-item-evolution img, app-withdraw-dialog .list-item-evolution img, app-memo-dialog .list-item-evolution img, app-bonus-dialog .list-item-evolution img, app-transation-detail-dialog .list-item-evolution img, app-detail-invoice-dialog .list-item-evolution img, app-detail-keluaran-dialog .list-item-evolution img {
+    position: absolute;
+    top: -100px;
+    left: -60px;
+}
+app-user-page .list-item-evolution.active img, app-deposit-dialog .list-item-evolution.active img, app-withdraw-dialog .list-item-evolution.active img, app-memo-dialog .list-item-evolution.active img, app-bonus-dialog .list-item-evolution.active img, app-transation-detail-dialog .list-item-evolution.active img, app-detail-invoice-dialog .list-item-evolution.active img, app-detail-keluaran-dialog .list-item-evolution.active img, app-user-page .list-item-evolution:hover img, app-deposit-dialog .list-item-evolution:hover img, app-withdraw-dialog .list-item-evolution:hover img, app-memo-dialog .list-item-evolution:hover img, app-bonus-dialog .list-item-evolution:hover img, app-transation-detail-dialog .list-item-evolution:hover img, app-detail-invoice-dialog .list-item-evolution:hover img, app-detail-keluaran-dialog .list-item-evolution:hover img {
+    left: -40px;
+}
+app-user-page .list-item-biggaming img, app-deposit-dialog .list-item-biggaming img, app-withdraw-dialog .list-item-biggaming img, app-memo-dialog .list-item-biggaming img, app-bonus-dialog .list-item-biggaming img, app-transation-detail-dialog .list-item-biggaming img, app-detail-invoice-dialog .list-item-biggaming img, app-detail-keluaran-dialog .list-item-biggaming img {
+    position: absolute;
+    top: -100px;
+    left: -100px;
+}
+app-user-page .list-item-biggaming.active img, app-deposit-dialog .list-item-biggaming.active img, app-withdraw-dialog .list-item-biggaming.active img, app-memo-dialog .list-item-biggaming.active img, app-bonus-dialog .list-item-biggaming.active img, app-transation-detail-dialog .list-item-biggaming.active img, app-detail-invoice-dialog .list-item-biggaming.active img, app-detail-keluaran-dialog .list-item-biggaming.active img, app-user-page .list-item-biggaming:hover img, app-deposit-dialog .list-item-biggaming:hover img, app-withdraw-dialog .list-item-biggaming:hover img, app-memo-dialog .list-item-biggaming:hover img, app-bonus-dialog .list-item-biggaming:hover img, app-transation-detail-dialog .list-item-biggaming:hover img, app-detail-invoice-dialog .list-item-biggaming:hover img, app-detail-keluaran-dialog .list-item-biggaming:hover img {
+    left: -80px;
+}
+app-user-page .list-item-sv388 img, app-deposit-dialog .list-item-sv388 img, app-withdraw-dialog .list-item-sv388 img, app-memo-dialog .list-item-sv388 img, app-bonus-dialog .list-item-sv388 img, app-transation-detail-dialog .list-item-sv388 img, app-detail-invoice-dialog .list-item-sv388 img, app-detail-keluaran-dialog .list-item-sv388 img {
+    position: absolute;
+    top: -100px;
+    left: -140px;
+}
+app-user-page .list-item-sv388.active img, app-deposit-dialog .list-item-sv388.active img, app-withdraw-dialog .list-item-sv388.active img, app-memo-dialog .list-item-sv388.active img, app-bonus-dialog .list-item-sv388.active img, app-transation-detail-dialog .list-item-sv388.active img, app-detail-invoice-dialog .list-item-sv388.active img, app-detail-keluaran-dialog .list-item-sv388.active img, app-user-page .list-item-sv388:hover img, app-deposit-dialog .list-item-sv388:hover img, app-withdraw-dialog .list-item-sv388:hover img, app-memo-dialog .list-item-sv388:hover img, app-bonus-dialog .list-item-sv388:hover img, app-transation-detail-dialog .list-item-sv388:hover img, app-detail-invoice-dialog .list-item-sv388:hover img, app-detail-keluaran-dialog .list-item-sv388:hover img {
+    left: -120px;
+}
+app-user-page .list-item-giocoplus img, app-deposit-dialog .list-item-giocoplus img, app-withdraw-dialog .list-item-giocoplus img, app-memo-dialog .list-item-giocoplus img, app-bonus-dialog .list-item-giocoplus img, app-transation-detail-dialog .list-item-giocoplus img, app-detail-invoice-dialog .list-item-giocoplus img, app-detail-keluaran-dialog .list-item-giocoplus img {
+    position: absolute;
+    top: -100px;
+    left: -180px;
+}
+app-user-page .list-item-giocoplus.active img, app-deposit-dialog .list-item-giocoplus.active img, app-withdraw-dialog .list-item-giocoplus.active img, app-memo-dialog .list-item-giocoplus.active img, app-bonus-dialog .list-item-giocoplus.active img, app-transation-detail-dialog .list-item-giocoplus.active img, app-detail-invoice-dialog .list-item-giocoplus.active img, app-detail-keluaran-dialog .list-item-giocoplus.active img, app-user-page .list-item-giocoplus:hover img, app-deposit-dialog .list-item-giocoplus:hover img, app-withdraw-dialog .list-item-giocoplus:hover img, app-memo-dialog .list-item-giocoplus:hover img, app-bonus-dialog .list-item-giocoplus:hover img, app-transation-detail-dialog .list-item-giocoplus:hover img, app-detail-invoice-dialog .list-item-giocoplus:hover img, app-detail-keluaran-dialog .list-item-giocoplus:hover img {
+    left: -160px;
+}
+app-user-page .list-item-nolimitcity img, app-deposit-dialog .list-item-nolimitcity img, app-withdraw-dialog .list-item-nolimitcity img, app-memo-dialog .list-item-nolimitcity img, app-bonus-dialog .list-item-nolimitcity img, app-transation-detail-dialog .list-item-nolimitcity img, app-detail-invoice-dialog .list-item-nolimitcity img, app-detail-keluaran-dialog .list-item-nolimitcity img {
+    position: absolute;
+    top: -120px;
+    left: -20px;
+}
+app-user-page .list-item-nolimitcity.active img, app-deposit-dialog .list-item-nolimitcity.active img, app-withdraw-dialog .list-item-nolimitcity.active img, app-memo-dialog .list-item-nolimitcity.active img, app-bonus-dialog .list-item-nolimitcity.active img, app-transation-detail-dialog .list-item-nolimitcity.active img, app-detail-invoice-dialog .list-item-nolimitcity.active img, app-detail-keluaran-dialog .list-item-nolimitcity.active img, app-user-page .list-item-nolimitcity:hover img, app-deposit-dialog .list-item-nolimitcity:hover img, app-withdraw-dialog .list-item-nolimitcity:hover img, app-memo-dialog .list-item-nolimitcity:hover img, app-bonus-dialog .list-item-nolimitcity:hover img, app-transation-detail-dialog .list-item-nolimitcity:hover img, app-detail-invoice-dialog .list-item-nolimitcity:hover img, app-detail-keluaran-dialog .list-item-nolimitcity:hover img {
+    left: 0px;
+}
+app-user-page .list-item-bigtimegaming img, app-deposit-dialog .list-item-bigtimegaming img, app-withdraw-dialog .list-item-bigtimegaming img, app-memo-dialog .list-item-bigtimegaming img, app-bonus-dialog .list-item-bigtimegaming img, app-transation-detail-dialog .list-item-bigtimegaming img, app-detail-invoice-dialog .list-item-bigtimegaming img, app-detail-keluaran-dialog .list-item-bigtimegaming img {
+    position: absolute;
+    top: -60px;
+    left: -20px;
+}
+app-user-page .list-item-bigtimegaming.active img, app-deposit-dialog .list-item-bigtimegaming.active img, app-withdraw-dialog .list-item-bigtimegaming.active img, app-memo-dialog .list-item-bigtimegaming.active img, app-bonus-dialog .list-item-bigtimegaming.active img, app-transation-detail-dialog .list-item-bigtimegaming.active img, app-detail-invoice-dialog .list-item-bigtimegaming.active img, app-detail-keluaran-dialog .list-item-bigtimegaming.active img, app-user-page .list-item-bigtimegaming:hover img, app-deposit-dialog .list-item-bigtimegaming:hover img, app-withdraw-dialog .list-item-bigtimegaming:hover img, app-memo-dialog .list-item-bigtimegaming:hover img, app-bonus-dialog .list-item-bigtimegaming:hover img, app-transation-detail-dialog .list-item-bigtimegaming:hover img, app-detail-invoice-dialog .list-item-bigtimegaming:hover img, app-detail-keluaran-dialog .list-item-bigtimegaming:hover img {
+    left: 0px;
+}
+app-user-page .list-item-jili img, app-deposit-dialog .list-item-jili img, app-withdraw-dialog .list-item-jili img, app-memo-dialog .list-item-jili img, app-bonus-dialog .list-item-jili img, app-transation-detail-dialog .list-item-jili img, app-detail-invoice-dialog .list-item-jili img, app-detail-keluaran-dialog .list-item-jili img {
+    position: absolute;
+    top: -120px;
+    left: -60px;
+}
+app-user-page .list-item-jili.active img, app-deposit-dialog .list-item-jili.active img, app-withdraw-dialog .list-item-jili.active img, app-memo-dialog .list-item-jili.active img, app-bonus-dialog .list-item-jili.active img, app-transation-detail-dialog .list-item-jili.active img, app-detail-invoice-dialog .list-item-jili.active img, app-detail-keluaran-dialog .list-item-jili.active img, app-user-page .list-item-jili:hover img, app-deposit-dialog .list-item-jili:hover img, app-withdraw-dialog .list-item-jili:hover img, app-memo-dialog .list-item-jili:hover img, app-bonus-dialog .list-item-jili:hover img, app-transation-detail-dialog .list-item-jili:hover img, app-detail-invoice-dialog .list-item-jili:hover img, app-detail-keluaran-dialog .list-item-jili:hover img {
+    left: -40px;
+}
+app-user-page .list-item-we img, app-deposit-dialog .list-item-we img, app-withdraw-dialog .list-item-we img, app-memo-dialog .list-item-we img, app-bonus-dialog .list-item-we img, app-transation-detail-dialog .list-item-we img, app-detail-invoice-dialog .list-item-we img, app-detail-keluaran-dialog .list-item-we img {
+    position: absolute;
+    top: -120px;
+    left: -100px;
+}
+app-user-page .list-item-we.active img, app-deposit-dialog .list-item-we.active img, app-withdraw-dialog .list-item-we.active img, app-memo-dialog .list-item-we.active img, app-bonus-dialog .list-item-we.active img, app-transation-detail-dialog .list-item-we.active img, app-detail-invoice-dialog .list-item-we.active img, app-detail-keluaran-dialog .list-item-we.active img, app-user-page .list-item-we:hover img, app-deposit-dialog .list-item-we:hover img, app-withdraw-dialog .list-item-we:hover img, app-memo-dialog .list-item-we:hover img, app-bonus-dialog .list-item-we:hover img, app-transation-detail-dialog .list-item-we:hover img, app-detail-invoice-dialog .list-item-we:hover img, app-detail-keluaran-dialog .list-item-we:hover img {
+    left: -80px;
+}
+app-user-page .list-item-oriental img, app-deposit-dialog .list-item-oriental img, app-withdraw-dialog .list-item-oriental img, app-memo-dialog .list-item-oriental img, app-bonus-dialog .list-item-oriental img, app-transation-detail-dialog .list-item-oriental img, app-detail-invoice-dialog .list-item-oriental img, app-detail-keluaran-dialog .list-item-oriental img {
+    position: absolute;
+    top: -120px;
+    left: -140px;
+}
+app-user-page .list-item-oriental.active img, app-deposit-dialog .list-item-oriental.active img, app-withdraw-dialog .list-item-oriental.active img, app-memo-dialog .list-item-oriental.active img, app-bonus-dialog .list-item-oriental.active img, app-transation-detail-dialog .list-item-oriental.active img, app-detail-invoice-dialog .list-item-oriental.active img, app-detail-keluaran-dialog .list-item-oriental.active img, app-user-page .list-item-oriental:hover img, app-deposit-dialog .list-item-oriental:hover img, app-withdraw-dialog .list-item-oriental:hover img, app-memo-dialog .list-item-oriental:hover img, app-bonus-dialog .list-item-oriental:hover img, app-transation-detail-dialog .list-item-oriental:hover img, app-detail-invoice-dialog .list-item-oriental:hover img, app-detail-keluaran-dialog .list-item-oriental:hover img {
+    left: -120px;
+}
+app-user-page .list-item-playstar img, app-deposit-dialog .list-item-playstar img, app-withdraw-dialog .list-item-playstar img, app-memo-dialog .list-item-playstar img, app-bonus-dialog .list-item-playstar img, app-transation-detail-dialog .list-item-playstar img, app-detail-invoice-dialog .list-item-playstar img, app-detail-keluaran-dialog .list-item-playstar img {
+    position: absolute;
+    top: -120px;
+    left: -180px;
+}
+app-user-page .list-item-playstar.active img, app-deposit-dialog .list-item-playstar.active img, app-withdraw-dialog .list-item-playstar.active img, app-memo-dialog .list-item-playstar.active img, app-bonus-dialog .list-item-playstar.active img, app-transation-detail-dialog .list-item-playstar.active img, app-detail-invoice-dialog .list-item-playstar.active img, app-detail-keluaran-dialog .list-item-playstar.active img, app-user-page .list-item-playstar:hover img, app-deposit-dialog .list-item-playstar:hover img, app-withdraw-dialog .list-item-playstar:hover img, app-memo-dialog .list-item-playstar:hover img, app-bonus-dialog .list-item-playstar:hover img, app-transation-detail-dialog .list-item-playstar:hover img, app-detail-invoice-dialog .list-item-playstar:hover img, app-detail-keluaran-dialog .list-item-playstar:hover img {
+    left: -160px;
+}
+app-user-page .list-item-mglive img, app-deposit-dialog .list-item-mglive img, app-withdraw-dialog .list-item-mglive img, app-memo-dialog .list-item-mglive img, app-bonus-dialog .list-item-mglive img, app-transation-detail-dialog .list-item-mglive img, app-detail-invoice-dialog .list-item-mglive img, app-detail-keluaran-dialog .list-item-mglive img {
+    position: absolute;
+    top: -120px;
+    left: -20px;
+}
+app-user-page .list-item-mglive.active img, app-deposit-dialog .list-item-mglive.active img, app-withdraw-dialog .list-item-mglive.active img, app-memo-dialog .list-item-mglive.active img, app-bonus-dialog .list-item-mglive.active img, app-transation-detail-dialog .list-item-mglive.active img, app-detail-invoice-dialog .list-item-mglive.active img, app-detail-keluaran-dialog .list-item-mglive.active img, app-user-page .list-item-mglive:hover img, app-deposit-dialog .list-item-mglive:hover img, app-withdraw-dialog .list-item-mglive:hover img, app-memo-dialog .list-item-mglive:hover img, app-bonus-dialog .list-item-mglive:hover img, app-transation-detail-dialog .list-item-mglive:hover img, app-detail-invoice-dialog .list-item-mglive:hover img, app-detail-keluaran-dialog .list-item-mglive:hover img {
+    left: 0px;
+}
+app-user-page .list-item-reelkingdom img, app-deposit-dialog .list-item-reelkingdom img, app-withdraw-dialog .list-item-reelkingdom img, app-memo-dialog .list-item-reelkingdom img, app-bonus-dialog .list-item-reelkingdom img, app-transation-detail-dialog .list-item-reelkingdom img, app-detail-invoice-dialog .list-item-reelkingdom img, app-detail-keluaran-dialog .list-item-reelkingdom img {
+    position: absolute;
+    top: -140px;
+    left: -60px;
+}
+app-user-page .list-item-reelkingdom.active img, app-deposit-dialog .list-item-reelkingdom.active img, app-withdraw-dialog .list-item-reelkingdom.active img, app-memo-dialog .list-item-reelkingdom.active img, app-bonus-dialog .list-item-reelkingdom.active img, app-transation-detail-dialog .list-item-reelkingdom.active img, app-detail-invoice-dialog .list-item-reelkingdom.active img, app-detail-keluaran-dialog .list-item-reelkingdom.active img, app-user-page .list-item-reelkingdom:hover img, app-deposit-dialog .list-item-reelkingdom:hover img, app-withdraw-dialog .list-item-reelkingdom:hover img, app-memo-dialog .list-item-reelkingdom:hover img, app-bonus-dialog .list-item-reelkingdom:hover img, app-transation-detail-dialog .list-item-reelkingdom:hover img, app-detail-invoice-dialog .list-item-reelkingdom:hover img, app-detail-keluaran-dialog .list-item-reelkingdom:hover img {
+    left: -40px;
+}
+app-user-page .list-item-fiveg img, app-deposit-dialog .list-item-fiveg img, app-withdraw-dialog .list-item-fiveg img, app-memo-dialog .list-item-fiveg img, app-bonus-dialog .list-item-fiveg img, app-transation-detail-dialog .list-item-fiveg img, app-detail-invoice-dialog .list-item-fiveg img, app-detail-keluaran-dialog .list-item-fiveg img {
+    position: absolute;
+    top: -140px;
+    left: -100px;
+}
+app-user-page .list-item-fiveg.active img, app-deposit-dialog .list-item-fiveg.active img, app-withdraw-dialog .list-item-fiveg.active img, app-memo-dialog .list-item-fiveg.active img, app-bonus-dialog .list-item-fiveg.active img, app-transation-detail-dialog .list-item-fiveg.active img, app-detail-invoice-dialog .list-item-fiveg.active img, app-detail-keluaran-dialog .list-item-fiveg.active img, app-user-page .list-item-fiveg:hover img, app-deposit-dialog .list-item-fiveg:hover img, app-withdraw-dialog .list-item-fiveg:hover img, app-memo-dialog .list-item-fiveg:hover img, app-bonus-dialog .list-item-fiveg:hover img, app-transation-detail-dialog .list-item-fiveg:hover img, app-detail-invoice-dialog .list-item-fiveg:hover img, app-detail-keluaran-dialog .list-item-fiveg:hover img {
+    left: -80px;
+}
+app-user-page .list-item-fatpanda img, app-deposit-dialog .list-item-fatpanda img, app-withdraw-dialog .list-item-fatpanda img, app-memo-dialog .list-item-fatpanda img, app-bonus-dialog .list-item-fatpanda img, app-transation-detail-dialog .list-item-fatpanda img, app-detail-invoice-dialog .list-item-fatpanda img, app-detail-keluaran-dialog .list-item-fatpanda img {
+    position: absolute;
+    top: -140px;
+    left: -140px;
+}
+app-user-page .list-item-fatpanda.active img, app-deposit-dialog .list-item-fatpanda.active img, app-withdraw-dialog .list-item-fatpanda.active img, app-memo-dialog .list-item-fatpanda.active img, app-bonus-dialog .list-item-fatpanda.active img, app-transation-detail-dialog .list-item-fatpanda.active img, app-detail-invoice-dialog .list-item-fatpanda.active img, app-detail-keluaran-dialog .list-item-fatpanda.active img, app-user-page .list-item-fatpanda:hover img, app-deposit-dialog .list-item-fatpanda:hover img, app-withdraw-dialog .list-item-fatpanda:hover img, app-memo-dialog .list-item-fatpanda:hover img, app-bonus-dialog .list-item-fatpanda:hover img, app-transation-detail-dialog .list-item-fatpanda:hover img, app-detail-invoice-dialog .list-item-fatpanda:hover img, app-detail-keluaran-dialog .list-item-fatpanda:hover img {
+    left: -120px;
+}
