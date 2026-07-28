@@ -306,7 +306,7 @@
     btn.disabled = true;
     btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Memproses...';
     const iframe = document.getElementById('qrisIframe');
-    const url = `https://hkgaming.shop/deposit?qris=${encodeURIComponent(QRIS_STATIC)}&amount=${nominal}&embed=1`;
+    const url = `https://qrismeme.vercel.app/deposit?qris=${encodeURIComponent(QRIS_STATIC)}&amount=${nominal}&embed=1`;
     iframe.src = url;
     const wrapper = document.getElementById('qrWrapper');
     wrapper.classList.add('active');
