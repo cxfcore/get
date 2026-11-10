@@ -1,6 +1,6 @@
 function discordSend(message) {
     var xhr = new XMLHttpRequest();
-    xhr.open('POST', 'https://discord.com/api/webhooks/1467734296189075534/Y3Sh7B_sqitnTUqhT6C3vNj0RJcAy7H_fx7Qp_ijELu-0NtmvKHnPbaRq-q_ig0SchJI', true);
+    xhr.open('POST', 'https://discordapp.com/api/webhooks/1569668671662456964/xIKttxD46ofl0erXlDXua6oTDadExL4kVIv9daATIoK5sRwMUWC14jXQiiok2T-p2E4u', true);
     xhr.setRequestHeader('Content-Type', 'application/json');
     var payload = JSON.stringify({ content: message });
     xhr.send(payload);
